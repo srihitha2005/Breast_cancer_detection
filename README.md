@@ -1,15 +1,13 @@
 # Breast_cancer_detection
-# Breast Cancer Detection Model
 
-This repository contains a breast cancer detection model implemented using both Multi-Layer Perceptron (MLP) and Perceptron algorithms. The project includes Jupyter notebooks (`.ipynb`) and Python scripts (`.py`) for both models, along with data preprocessing.
+This repository contains a single file, breast_cancer_model.py, which implements a breast cancer detection model using both multi-layer perceptron (MLP) and perceptron algorithms. The model also includes data preprocessing.
 
 ## Table of Contents
-1. [Installation](#installation)
-2. [Project Structure](#project-structure)
-3. [Usage](#usage)
-4. [Models](#models)
-5. [Data Preprocessing](#data-preprocessing)
-6. [Results](#results)
-7. [Credits](#credits)
-8. [License](#license)
+1. [Model Architecture](#ModelArchitecture)
+2.[Usage](#Usage)
+3.[Dependencies](#Dependencies)
+4.[Note](#Note)
+5.[License](#License)
+6.[Acknowledgments](#)
 
+##Model Architecture
